@@ -1,6 +1,9 @@
 # Self Blancing Bot
 This is a robot that aims to balance itself on two wheels. It can move as commanded by the user. Later we aim to make it autonomous. It utilized an IMU sensor to take inputs and balances itself using actuators(motors).
 
+## Problem statement
+“self-balancing bot is a two-wheeled robot that stays upright using sensor feedback (gyro & accelerometer) and a control algorithm like PID. It adjusts motor speed in real time to maintain balance and handle movement or disturbance”.
+
 ## Compenents required
 | No. | Name                 | Quantity |
 |-----|----------------------|----------|
